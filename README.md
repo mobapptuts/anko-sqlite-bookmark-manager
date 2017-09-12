@@ -1,2 +1,3 @@
-# kotlin-webview
-This is the source code for the tutorial series https://goo.gl/RYrTfu Where we go through the steps of creating a web browser application using the kotlin programming language. The youtube playlist for this series can be found here https://www.youtube.com/playlist?list=PL9jCwTXYWjDLm9_vlldkbPuqDn3r7UMRx
+# anko-sqlite-bookmark-manager
+This kotlin on android tutorial series follows on from the kotlin webview series https://github.com/mobapptuts/kotlin-webview
+In this koltin on android tutorial series we will be creating a web browser bookmark manager using the Anko Sqlite library.
