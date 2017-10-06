@@ -8,7 +8,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.mobapptuts.kotlinwebview"
+        applicationId "com.mobapptuts.bookmarkmanager"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1

@@ -1,4 +1,4 @@
-package com.mobapptuts.kotlinwebview
+package com.mobapptuts.bookmarkmanager
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

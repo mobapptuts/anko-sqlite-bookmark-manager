@@ -1,4 +1,4 @@
-package com.mobapptuts.kotlinwebview
+package com.mobapptuts.bookmarkmanager
 
 import android.graphics.Bitmap
 import android.net.Uri

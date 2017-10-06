@@ -1,4 +1,4 @@
-package com.mobapptuts.kotlinwebview
+package com.mobapptuts.bookmarkmanager
 
 import org.junit.Test
 
